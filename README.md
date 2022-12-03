@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kisuuuuu
-- 👀 I’m interested in coding but I am not confident about my skills.
-- 🌱 I’m currently learning coding HAHAHHA and I am a complete newbie. I just enrolled CS50 to sharpen my skils. 
-- 💞️ I’m looking to collaborate on none coz I want to learn on my own then share it to someone.
+- 👀 I’m interested in coding but I am not that confident about my skills.
+- 🌱 I’m currently learning coding HAHAHHA and I am a complete newbie.  
+- 💞️ I’m looking to collaborate on no one coz I want to learn on my own then share it to someone.
 - 📫 How to reach me...
 
 <!---
