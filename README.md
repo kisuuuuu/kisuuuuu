@@ -10,7 +10,7 @@ I'm a student at **PUP Manila**, pursuing my degree in Bachelor of Science in Co
 ## 🤝 Let's Connect
 I'm always eager to connect with fellow tech enthusiasts and learners. Feel free to reach out!👥
 
-<div align =left">
+<div align ="left">
     <a href="https://www.linkedin.com/in/keith-montemayor-6ab7a716b/">
         <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a>
