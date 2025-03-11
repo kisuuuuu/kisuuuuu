@@ -18,7 +18,7 @@ I'm always eager to connect with fellow tech enthusiasts and learners. Feel free
         <img alt="Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" />
     </a>
     <a href="mailto:keithmonte15@gmail.com">
-        <img alt="Gmail" width="30px" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" />
+        <img alt="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" />
     </a>
 </div>
 
