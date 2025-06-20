@@ -1,5 +1,5 @@
 # Hi there, I'm Keith Reijay M. Montemayor! 👋
-__`Computer Science Student @ PUP Sta.Mesa Manila`__ __`2nd Year Student`__ 
+__`Computer Science Student @ PUP Sta.Mesa Manila`__ __`3rd Year Student`__ 
 
 ## 🔧 Skills & Tools
 <div style="display: inline-block; padding-right: 50px;">
