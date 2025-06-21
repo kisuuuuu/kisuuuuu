@@ -11,7 +11,7 @@ __`Computer Science Student @ PUP Sta.Mesa Manila`__ __`3rd Year Student`__
 I'm always eager to connect with fellow tech enthusiasts and learners. Feel free to reach out!👥
 
 <div align ="left">
-    <a href="https://www.linkedin.com/in/keith-montemayor-6ab7a716b/">
+    <a href="www.linkedin.com/in/keith-reijay-montemayor-6ab7a716b">
         <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a>
     <a href="https://www.facebook.com/krmonte15">
